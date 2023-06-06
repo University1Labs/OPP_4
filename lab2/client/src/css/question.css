@@ -1,0 +1,39 @@
+.question {
+    padding-left: 20px;
+}
+
+.question_text {
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.question_options {
+    padding: 10px 0;
+}
+
+.question_element {
+    display: flex;
+    align-items: center;
+}
+
+.question_input {
+    margin-left: 15px;
+}
+
+.question_option {
+    font-size: 16px;
+}
+
+.question_button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.button_block {
+    padding-bottom: 10px;
+}
+
+.test_result {
+    font-size: 18px;
+}

@@ -1,0 +1,25 @@
+.auth {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.auth_title {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.auth_element {
+    padding-top: 10px;
+}
+
+.auth_element input {
+    width: 200px;
+    font-size: 16px;
+}
+
+.auth_button button {
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+}

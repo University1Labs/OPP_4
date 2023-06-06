@@ -1,0 +1,13 @@
+.testList {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.testElement {
+    padding-top: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
